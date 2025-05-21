@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4969c74c-2f99-4cec-8208-831246db321c)# EXP-01: Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine.
+## EXP-01: Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine.
 ## Date: 5/3/25
 ## Aim:
 To implement various effects in a material such as emissive, roughness and metallic
