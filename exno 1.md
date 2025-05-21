@@ -32,7 +32,8 @@ Save the material.
 Apply it to any mesh in the scene (like a sphere or cube) to preview the results.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0f63ce05-46de-41ad-8e29-2a875b99d853)
+![image](https://github.com/user-attachments/assets/70d0cf8d-6ebf-4621-93da-cc48992a7f76)
+
 
 ![image](https://github.com/user-attachments/assets/cb1d4804-767b-4ba3-96f0-92f5b4b177d2)
 
